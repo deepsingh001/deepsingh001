@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Singh</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate .Net developer from India</h3>
 
 <img align="rigth"alt="coding"width="400"src="http://user"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsing001&label=Profile%20views&color=0e75b6&style=flat" alt="deepsing001" /> </p>
